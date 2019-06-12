@@ -1,0 +1,6 @@
+# breakout-game files
+breakout-game/dist/main.js
+breakout-game/node_modules/
+# node-server files
+node-server/node_modules/
+
