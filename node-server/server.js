@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 var path = require('path');
-app.use(express.static('../breakout-game/dist'))
+app.use(express.static('../game/dist'))
 
 // viewed at http://localhost:8080
 // viewed at http://localhost:8080
