@@ -10,4 +10,4 @@ app.use(express.static('../game/dist'))
 //     //res.sendFile(path.join(__dirname + '/../breakout-game/dist/main.js'));
 // });
 
-app.listen(8080);
+app.listen(80);

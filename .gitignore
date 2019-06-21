@@ -3,4 +3,9 @@ breakout-game/dist/main.js
 game/node_modules/
 # node-server files
 node-server/node_modules/
+# Remove secret (terraform) files
+terraform/kubernetes-creds.json
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform
 
